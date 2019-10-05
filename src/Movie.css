@@ -42,8 +42,4 @@
         flex-direction: column;
         width: 100%;
     }
-    .poster {
-        align-self: center;
-        max-width: none;
-    }
 }
